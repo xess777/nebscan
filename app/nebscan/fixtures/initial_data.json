@@ -1,0 +1,15 @@
+[
+{
+    "model": "nebscan.nebblock",
+    "pk": "0000000000000000000000000000000000000000000000000000000000000000",
+    "fields": {
+        "parent": "0000000000000000000000000000000000000000000000000000000000000000",
+        "height": 1,
+        "nonce": 0,
+        "timestamp": 0,
+        "miner": "",
+        "coinbase": "n1HQb7j3Ctpj5A9sJnfhRwXS549nGPv2EkD",
+        "is_finality": true
+    }
+}
+]
